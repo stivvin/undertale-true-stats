@@ -8,3 +8,4 @@ Steps for patching:
 
 
 
+Beating the game from a fresh save file with the main "StatEditPatch" is nearly impossible, since Asgore has 80 defense. The highest possible achievable player attack is 87 (LV16, Worn Dagger, Temmie Armor, 8 Legendary Heroes), allowing the player to do 16 - 20 damage per turn against Asgore's 3500 HP. If you want a less authentic but more bearable challenge, use the "fairasgorepatch" patch file instead. This is identical, except that Asgore's defense will drop over time, as well as when talked to as a pacifist or when you eat the pie, as it does in the normal game (though it will not decrease below 0).
