@@ -8,7 +8,7 @@ Steps for patching:
 
 
 
-The four patch files are nearly identical, with the exception of how Asgore is handled. (If you start from a fresh save file you must fight Asgore to beat the game, as True Pacifist is off limits without a completed save file and Genocide requires killing Toriel, which is no longer an option.)
+The four patch files are nearly identical, with the exception of how Asgore is handled. (You must fight Asgore to beat the game, as True Pacifist is off limits without a completed save file and Genocide requires killing Toriel, who now has 80 defense)
 
 stateditpatch.bps: Asgore does indeed have 80 Defense and 3500 HP. The maximum possible attack you can achieve is 87, letting you do 16 - 20 damage. This takes a very long time. You at least have some room for error, as he leaves you on 1 HP and Temmie Armor (needed for the maximum possible attack) heals you every other turn, but this is still incredibly awful. I have not beaten this, do not plan to, and do not recommend anyone try it, but this is the most "authentic" version of the mod, so I might as well upload it anyway.
 
