@@ -22,3 +22,7 @@ recommendedpatch.bps: Asgore still has his 80 Attack and Defense, but only 440 H
 fairasgorepatch.bps: Asgore starts with 3500 HP, 80 attack and 80 defense, but all of his scripts are nearly unchanged, meaning his defense will decrease over time, and can be dropped by the pie or (as a pacifist) talking. In case you think this mod idea is interesting but don't want to have to grind, the game can be beaten at any level this way. I personally don't like this as wanting to face the true power of Asgore's supposed stats was the reason I made the mod in the first place, but if anyone actually finds this page I'm sure someone will prefer this version.
 
 dentistvisit.bps: Identical to stateditpatch.bps, except Asgore does not leave you on 1 HP. Can you face Asgore at his true power? You shouldn't, but can you? 
+
+
+
+By the way, did you know that even though Doggo, Dogamy, Dogaressa and Greater Dog don't count towards the Snowdin kill counter, RG01, RG02 and Muffet do count towards the Hotland kill counter?
