@@ -1,6 +1,11 @@
 # undertale-true-stats
 Enemy and player stats are effectively the (usually completely false) stats displayed through "CHECK" and "STAT"
 
+Almost all bullets with their own damage values (of which their are MANY) are set to the damage value of their parent monster's attack stat. Any mid-battle Attack and Defense changes are removed (e.g. Toriel and Papyrus will not die instantly if attacked after they stop fighting.)
+All damage calculations are changed to behave as though the player's Attack and Defense are 10 lower than they actually are, effectively bringing them in line with the displayed values in the "STAT" menu. To the player's advantage, the player's defense is no longer divided by 5 in the damage calculation, and monsters no longer get damage bonuses based on current HP when the player's current HP is above 20.
+
+
+
 Steps for patching:
 1. Access your Undertale game files. On Steam, right click the game in the game list on the left, then select "properties", "local files", and "browse". Right click the "UNDERTALE" file that opens and select "show package contents".
 2. Open a patching program, such as MultiPatch for Mac or "beat" for Windows. (I personally only have experience with MultiPatch.) Patch the patch file from here to the data.win or game.ios file
